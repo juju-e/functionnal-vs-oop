@@ -21,7 +21,7 @@ Functional programming, or FP, is a programming paradigm that relies on function
 Please visit the code for more info it is commented and the comments show the differences between the 2 paradigms. 
 <br><br>
 #### useful ressources:
-[1](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
+[1](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)<br>
 [2](https://www.amazon.com/gp/product/1107452643/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=whatpixel-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1107452643&linkId=ed2e1add1b1fc1b77c8d930cc24f82fb)
 <br><br><br><br>
 Made by `Shadowblade` During `GCI 2019`, Open source.
