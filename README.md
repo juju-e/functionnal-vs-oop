@@ -8,7 +8,7 @@ Functional programming, or FP, is a programming paradigm that relies on function
 #### Why should you use OOP:
 - Objects can also be reused within an across applications,
 - It makes software easier to maintain,
-- Reuse also enables faster development,
+- Code reusability.
 #### Why should you use FP:
 - Pure functions are easier to reason about,
 - Debugging is easier,
